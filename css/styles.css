@@ -10,6 +10,10 @@
     font-family: 'Lobster', cursive;
 }
 
+.nav-bar{
+    
+}
+
 #jumbotron {
     margin-top: 4%;
     margin-bottom: 5%;
@@ -49,6 +53,9 @@ input[type=submit] {
     cursor: pointer;
 }
 
+.accordion-header{
+    font-family: 'Roboto Serif', sans-serif;   
+}
 
 .footer {
     text-align: center;
